@@ -21,16 +21,12 @@
 title: Peach Palm Admin
 email: mail@PeachPalmAdmin.com
 description: >- # this means to ignore newlines until "baseurl:"
-    As an administrative solutions company,
-    we work on both short-term and long-term assignments.
-    PPA, LLC is dedicated to providing our clients professional services,
-    by offering flexible scheduling, personalized services,
-    and industry best practices.
+    No-nonsense administrative solutions tailored to your small business.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: PeachPalmAdmin
-github_username:  Peach-Palm-Admin
+# twitter_username: PeachPalmAdmin
+# github_username:  Peach-Palm-Admin
 
 # Build settings
 theme: minima

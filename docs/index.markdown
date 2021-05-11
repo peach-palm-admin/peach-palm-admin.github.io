@@ -26,4 +26,4 @@ we handle the basics and we know who to call if you need a specialist.
 
 -----------------------------------------------------------------------------
 
-Let us know what you want help with: mail@PeachPalmAdmin.com
+Let us know how we can assist you: mail@PeachPalmAdmin.com

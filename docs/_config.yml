@@ -19,12 +19,44 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Peach Palm Admin
-email: mail@PeachPalmAdmin.com
+author:
+  name: Peach Palm Admin LLC
+  email: "LLC@PeachPalmAdmin.com"
+email: contact@PeachPalmAdmin.com  # TODO: remove this?
 description: >- # this means to ignore newlines until "baseurl:"
     No-nonsense administrative solutions tailored to your small business.
 
+show_excerpts: false # set to true to show excerpts on the homepage
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+minima:
+  # Minima date format
+  # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+  date_format: "%Y - %b - %d"
+  
+  # social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+    
+# OLD social links format TODO: rm?
 # twitter_username: PeachPalmAdmin
 # github_username:  Peach-Palm-Admin
 

@@ -23,7 +23,7 @@ author: "Peach Palm Admin LLC"
 email: contact@PeachPalmAdmin.com  # TODO: remove this?
 description: >- # this means to ignore newlines until "baseurl:"
     No-nonsense administrative solutions tailored to your small business.
-header_img_path: ''
+header_img_path: 'assets/img/peach-palm-header.png'
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

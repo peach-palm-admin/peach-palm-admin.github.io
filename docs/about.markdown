@@ -6,7 +6,11 @@ permalink: /about/
 
 Peach Palm Admin is a small, local, woman-owned business with a no-nonsense approach to business administration.
 
-# Who We Are
+
+---------------------------------------------------------------------------------------------------
+# Team Members
+---------------------------------------------------------------------------------------------------
+
 ## Lauren Murray
 Working for the "positive common goal" has always been a part of Lauren's work life. 
 She has been a successful leader in all aspects of her career from restaurant chains to the federal government. 

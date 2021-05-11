@@ -1,12 +1,18 @@
 <header class="site-header">
 
   <div class="wrapper">
-    HEAD1
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    HEAD2
+    
+    {%- if site.header_img_path != '' -%}
+      <!-- header image if set -->
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="{{ site.header_img_path | relative_url }}"></a>
+    {%- else -%}
+      <!-- use text title if no header image -->
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    {%- endif -%}
+    
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -17,7 +23,9 @@
             </svg>
           </span>
         </label>
-        HEAD3
+        
+        <!-- NOTE: put text for above the right nav here if desired -->
+
         <div class="trigger">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
@@ -28,6 +36,5 @@
         </div>
       </nav>
     {%- endif -%}
-    HEAD4
   </div>
 </header>

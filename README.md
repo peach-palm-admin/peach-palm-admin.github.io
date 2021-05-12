@@ -1,7 +1,10 @@
 # peach-palm-admin.github.io
 
+The website is set up using the `/docs/` folder using jekyll and served using github pages.
 
+The `/DOCUMENTS/` folder contains files for human use - it is just logos for now.
 
+-----------------------------------------------------------------------------------
 
 # Notes
 

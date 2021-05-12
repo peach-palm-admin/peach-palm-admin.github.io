@@ -6,6 +6,15 @@ The `/DOCUMENTS/` folder contains files for human use - it is just logos for now
 
 -----------------------------------------------------------------------------------
 
+Website philosophy:
+
+* keep it simple and clean
+* Professional but a little fun
+* should feel calm. Calm is something we bring to their hectic mess
+
+-----------------------------------------------------------------------------------
+
+
 # Notes
 
 You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

@@ -6,9 +6,9 @@ layout: home
 ---
 
 
-**As an administrative solutions company, we work on both short-term and long-term assignments. 
+As an administrative solutions company, we work on both short-term and long-term assignments. 
 PPA LLC is dedicated to providing our clients professional services.
-We offer the following solutions:**
+We offer the following solutions:
 
 * Flexible scheduling to save you time
 * Personalized services based on your unique needs
@@ -16,7 +16,7 @@ We offer the following solutions:**
 
 -----------------------------------------------------------------------------
 
-### **A few of the services we provide our clients:**
+A few of the services we provide our clients:
 * Database Managemnt-Data Entry, Word Processing, Corresponence
 * Scheduling & Schedule management
 * KRONOS - Time keeping

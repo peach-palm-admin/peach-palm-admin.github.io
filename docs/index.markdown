@@ -18,11 +18,11 @@ We offer the following solutions:
 
 A few of the services we provide our clients:
 * Database Managemnt-Data Entry, Word Processing, Corresponence
-* Scheduling & Schedule management
-* KRONOS - Time keeping
-* Marketing, Website management, Social media
+* Scheduling & Schedule Management
+* KRONOS - Timekeeping
+* Marketing, Website Management, Social media
 * Quickbooks
-* HR Planning -Full Lifecycle Recruiting, HR best practices
+* HR Planning - Full Lifecycle Recruiting, HR best practices
 
 Think of Peach Palm Admin as a general contractor for business services -
 we handle the basics and we know who to call if you need a specialist.

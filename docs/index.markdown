@@ -15,7 +15,7 @@ We offer the following solutions:**
 
 -----------------------------------------------------------------------------
 
-###A few of the services we provide our clients:
+### A few of the services we provide our clients:
 * Database Managemnt-Data Entry, Word Processing, Corresponence
 * Scheduling & Schedule management
 * KRONOS - Time keeping

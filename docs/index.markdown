@@ -5,6 +5,7 @@
 layout: home
 ---
 
+
 **As an administrative solutions company, we work on both short-term and long-term assignments. 
 PPA LLC is dedicated to providing our clients professional services.
 We offer the following solutions:**
@@ -15,7 +16,7 @@ We offer the following solutions:**
 
 -----------------------------------------------------------------------------
 
-### A few of the services we provide our clients:
+### **A few of the services we provide our clients:**
 * Database Managemnt-Data Entry, Word Processing, Corresponence
 * Scheduling & Schedule management
 * KRONOS - Time keeping
@@ -27,5 +28,6 @@ Think of Peach Palm Admin as a general contractor for business services -
 we handle the basics and we know who to call if you need a specialist.
 
 -----------------------------------------------------------------------------
+
 
 Let us know how we can assist you run your company more effciently.

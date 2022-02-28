@@ -5,30 +5,17 @@
 layout: home
 ---
 
+An administrative solutions company, providing both short-term and long-term solutions.
+Peach Palm Admin, LLC is dedicated to designing a solution based on your unique administrative needs. 
+We offer the following solutions: 
 
-As an administrative solutions company, we work on both short-term and long-term assignments. 
-PPA LLC is dedicated to providing our clients professional services.
-We offer the following solutions:
-
-* Flexible scheduling to save you time
-* Personalized services based on your unique needs
-* Shared knowledge on industry best practices
-
------------------------------------------------------------------------------
-
-A few of the services we provide our clients:
-* Database Management-Data Entry, Word Processing, Correspondence
-* Scheduling & Schedule Management
-* KRONOS - Timekeeping
-* Marketing, Website Management, Social media
+* Administrative / Backoffice support
 * Bookkeeping
-* Human Resource Services
-* Payroll data entry
-
-Think of Peach Palm Admin as a general contractor for business services -
-we handle the basics and we know who to call if you need a specialist.
+* Human Resource Management
+  - Full lifecycle recruiting, creating onboarding plan, educating newly hired employees on HR policies, internal procedures and regulations
+* Marketing, Website Management, Social media development
+* Payroll 
 
 -----------------------------------------------------------------------------
 
-
-Let us know how we can assist your growing business.
+Allow us to help you with your growing business needs

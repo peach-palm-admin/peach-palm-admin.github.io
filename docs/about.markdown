@@ -25,17 +25,15 @@ lauren@PeachPalmAdmin.com
 ```
 
 ## Amy Neal True
-With a resume ranging from Receptionist to Human Resource Director, Amy has demonstrated experience administering programs and policies - including organizational strategy. 
-She has collaborated with non-profits, real estate agencies, commercial contract services, and with Departments of State, Transportation, and Defense. 
+With a resume ranging from Receptionist to Human Resource Director, Amy has demonstrated experience administering programs and policies - including organizational strategy. She has collaborated with non-profits, real estate agencies, commercial contract services, and with Departments of State, Transportation, and Defense. 
 Amy has multiple certifications in the Human Resource field and is currently working on retaining her Professional Human Resources (PHR) certification.
 
-She decided to join this venture because her husband said, “Being a stay-at-home dog mom is not a real job.” 
-One day she will prove him wrong. 
+She decided to join this venture because her husband said, “Being a stay-at-home dog mom is not a real job.” One day she will prove him wrong. 
 
 ```
 Amy Neal True
 Managing Partner
-573.842.5309
+703.596.2637
 amy@PeachPalmAdmin.com
 ```
 

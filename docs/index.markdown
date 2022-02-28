@@ -5,7 +5,7 @@
 layout: home
 ---
 
-An administrative solutions company, providing both short-term and long-term solutions.
+An administrative solutions company, providing both short and long-term solutions.
 Peach Palm Admin, LLC is dedicated to designing a solution based on your unique administrative needs. 
 We offer the following solutions: 
 

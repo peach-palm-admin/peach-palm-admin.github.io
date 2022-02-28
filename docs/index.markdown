@@ -4,7 +4,6 @@
 
 layout: home
 ---
-
 An administrative solutions company, providing both short and long-term solutions.
 Peach Palm Admin, LLC is dedicated to designing a solution based on your unique administrative needs. 
 We offer the following solutions: 
@@ -15,7 +14,6 @@ We offer the following solutions:
   - Full lifecycle recruiting, creating onboarding plan, educating newly hired employees on HR policies, internal procedures, and regulations
 * Marketing, Website Management, Social media development
 * Payroll 
-
 -----------------------------------------------------------------------------
 
 Allow us to help you with your growing business needs

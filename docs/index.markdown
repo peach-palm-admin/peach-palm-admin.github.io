@@ -12,7 +12,7 @@ We offer the following solutions:
 * Administrative / Backoffice support
 * Bookkeeping
 * Human Resource Management
-  - Full lifecycle recruiting, creating onboarding plan, educating newly hired employees on HR policies, internal procedures and regulations
+  - Full lifecycle recruiting, creating onboarding plan, educating newly hired employees on HR policies, internal procedures, and regulations
 * Marketing, Website Management, Social media development
 * Payroll 
 

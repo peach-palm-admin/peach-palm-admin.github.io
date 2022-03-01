@@ -18,11 +18,11 @@ A few of the services we provide our clients:
 * Administrative / Backoffice support
   -  Database Management, Data Entry, Word Processing, Correspondence
 * Bookkeeping
-  - Accounts receivable/payable, and monthly balancing
+  - Accounts receivable/payable, and monthly reconsiliation
 * Human Resource Management
   - Full lifecycle recruiting, creating onboarding plan, educating newly hired employees on HR policies, internal procedures, and regulations
 * Marketing, Website Management, Social media development
-* Payroll
+* Payroll entry and consulting
 
 
 -----------------------------------------------------------------------------

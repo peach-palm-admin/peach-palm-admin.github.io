@@ -11,6 +11,7 @@ We offer the following solutions:
 * Flexible scheduling
 * Personalized services based upon your unique needs
 * Shared knowledge on industry best practices
+
 -------------------------------------------------------------------------
 A few of the services we provide our clients:
 
